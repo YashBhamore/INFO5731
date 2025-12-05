@@ -1,3 +1,3 @@
 # INFO5731 Assignments
-- Notebook: Bhamore_Yash_Exercise_01.ipynb  
+-This folder belongs to my graduate studies class where we learned to develope the NLP (Natural Language Processing) and other AI realated Tasks.
 - 
